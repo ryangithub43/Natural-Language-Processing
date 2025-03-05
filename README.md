@@ -12,7 +12,7 @@ The methods found in UserGiver are chooseAdjective and chooseNoun. Both of these
 
 This is what the output looks like: 
 
-======================================================================
+
 Welcome to the User Maker! Do you want to get started? (Type anything)
 a
  
@@ -41,7 +41,7 @@ Here is your username together: amusedawareness4
  
  
 Thank you for signing in amusedawareness4! :D 
-======================================================================
+
 
 
 ![Screenshot 2025-03-05 144051](https://github.com/user-attachments/assets/75fad29b-224c-429a-ab8f-e7274734d6cb)
